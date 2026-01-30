@@ -63,6 +63,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://barcelonavibe.com/practical/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/day-trips/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
   <!-- Neighborhood Pages -->
   <url>
@@ -266,6 +276,50 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Practical Guides -->
+  <url>
+    <loc>https://barcelonavibe.com/practical/getting-around/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/practical/apps/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/practical/safety/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/practical/weather/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Day Trips -->
+  <url>
+    <loc>https://barcelonavibe.com/day-trips/montserrat/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/day-trips/sitges/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/day-trips/girona/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/day-trips/costa-brava/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Collections -->
   <url>
     <loc>https://barcelonavibe.com/collections/first-time/</loc>
@@ -307,6 +361,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://barcelonavibe.com/collections/family/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/collections/instagram-spots/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 
   <!-- Rankings -->
   <url>
@@ -322,6 +386,43 @@
   <url>
     <loc>https://barcelonavibe.com/rankings/best-beaches/</loc>
     <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/rankings/best-rooftops/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/rankings/best-tapas/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/rankings/best-brunch/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/rankings/best-cocktails/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Events & Festivals -->
+  <url>
+    <loc>https://barcelonavibe.com/events/la-merce/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/events/primavera-sound/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/events/sonar/</loc>
+    <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
 
