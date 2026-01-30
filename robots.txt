@@ -1,0 +1,24 @@
+# BarcelonaVibe.com Robots.txt
+# https://barcelonavibe.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://barcelonavibe.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Block common bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
