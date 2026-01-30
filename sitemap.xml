@@ -585,6 +585,66 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- More Collections -->
+  <url>
+    <loc>https://barcelonavibe.com/collections/perfect-barcelona-weekend/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/collections/tapas-trail/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/collections/nightlife/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/collections/beach-to-club/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/collections/late-night-crawl/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://barcelonavibe.com/collections/digital-nomad/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- More Neighborhoods -->
+  <url>
+    <loc>https://barcelonavibe.com/neighborhoods/sant-gervasi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Go Out Subcategories -->
+  <url>
+    <loc>https://barcelonavibe.com/go-out/late-night/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Guides -->
+  <url>
+    <loc>https://barcelonavibe.com/guides/gaudi/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- More Rankings -->
+  <url>
+    <loc>https://barcelonavibe.com/rankings/best-paella/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Info Pages -->
   <url>
     <loc>https://barcelonavibe.com/about/</loc>
