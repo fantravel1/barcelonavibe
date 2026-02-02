@@ -227,8 +227,21 @@
 
   <!-- Main Content -->
   <main id="main">
-    <!-- Hero Section -->
-    <section class="hero">
+    <!-- Hero Section with Video Background -->
+    <section class="hero hero-video">
+      <!-- Video Background Container -->
+      <div class="hero-video-container">
+        <iframe
+          id="hero-video"
+          src="https://www.youtube.com/embed/p7bfOZek9t4?autoplay=1&mute=1&loop=1&playlist=p7bfOZek9t4&controls=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&enablejsapi=1"
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen
+          title="Barcelona Vibe Background Video"
+        ></iframe>
+        <div class="hero-video-overlay"></div>
+      </div>
+
       <div class="hero-content">
         <div class="hero-badge">
           <span class="hero-badge-dot"></span>
@@ -258,6 +271,12 @@
           <a href="/go-out/" class="btn btn-primary">Find Your Night</a>
           <a href="/neighborhoods/" class="btn btn-secondary">Explore Barrios</a>
         </div>
+
+        <!-- Video Controls -->
+        <button class="video-sound-toggle" aria-label="Toggle video sound" title="Unmute video">
+          <svg class="sound-off" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><line x1="23" y1="9" x2="17" y2="15"/><line x1="17" y1="9" x2="23" y2="15"/></svg>
+          <svg class="sound-on" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none;"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>
+        </button>
       </div>
     </section>
 
