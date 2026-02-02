@@ -15,6 +15,7 @@
     initSmoothScroll();
     initScrollHeader();
     initLazyLoad();
+    initHeroVideo();
   }
 
   /**
@@ -158,6 +159,72 @@
       if (!ticking) {
         requestAnimationFrame(updateHeader);
         ticking = true;
+      }
+    });
+  }
+
+  /**
+   * Hero Video Background with Sound Toggle
+   */
+  function initHeroVideo() {
+    const soundToggle = document.querySelector('.video-sound-toggle');
+    const videoIframe = document.getElementById('hero-video');
+
+    if (!soundToggle || !videoIframe) return;
+
+    let isMuted = true;
+    let player = null;
+
+    // Initialize YouTube API
+    function onYouTubeIframeAPIReady() {
+      player = new YT.Player('hero-video', {
+        events: {
+          'onReady': function(event) {
+            event.target.mute();
+            event.target.playVideo();
+          }
+        }
+      });
+    }
+
+    // Load YouTube API if not already loaded
+    if (!window.YT) {
+      const tag = document.createElement('script');
+      tag.src = 'https://www.youtube.com/iframe_api';
+      const firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+      window.onYouTubeIframeAPIReady = onYouTubeIframeAPIReady;
+    } else if (window.YT && window.YT.Player) {
+      onYouTubeIframeAPIReady();
+    }
+
+    // Sound toggle button
+    soundToggle.addEventListener('click', function() {
+      if (player && player.isMuted) {
+        if (isMuted) {
+          player.unMute();
+          player.setVolume(50);
+          soundToggle.classList.add('unmuted');
+          soundToggle.setAttribute('title', 'Mute video');
+        } else {
+          player.mute();
+          soundToggle.classList.remove('unmuted');
+          soundToggle.setAttribute('title', 'Unmute video');
+        }
+        isMuted = !isMuted;
+      } else {
+        // Fallback: manipulate iframe src
+        const src = videoIframe.src;
+        if (isMuted) {
+          videoIframe.src = src.replace('mute=1', 'mute=0');
+          soundToggle.classList.add('unmuted');
+          soundToggle.setAttribute('title', 'Mute video');
+        } else {
+          videoIframe.src = src.replace('mute=0', 'mute=1');
+          soundToggle.classList.remove('unmuted');
+          soundToggle.setAttribute('title', 'Unmute video');
+        }
+        isMuted = !isMuted;
       }
     });
   }
