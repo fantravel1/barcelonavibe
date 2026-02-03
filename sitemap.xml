@@ -17,10 +17,19 @@
   <url><loc>https://barcelonavibe.com/areas/mountains/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/areas/parks/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/areas/port/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/attractions/beaches/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/attractions/churches/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/attractions/museums/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/attractions/parks/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/barcelona-by-month/december/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/barcelona-by-month/january/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/barcelona-by-month/june/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/barcelona-by-month/september/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/beach/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/beach/beaches-guide/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/beach/chiringuitos/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/beach/water-sports/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/budget/free-activities/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/collections/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/collections/48-hours/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/collections/72-hours/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -166,16 +175,40 @@
   <url><loc>https://barcelonavibe.com/legal/terms/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/neighborhoods/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/neighborhoods/barceloneta/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/barceloneta/drink/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/barceloneta/eat/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/barceloneta/see/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/barceloneta/stay/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/born/drink/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/born/eat/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/born/see/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/born/stay/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/neighborhoods/eixample/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/eixample/drink/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/eixample/eat/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/eixample/see/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/eixample/stay/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/neighborhoods/el-born/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/neighborhoods/el-raval/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/neighborhoods/gothic-quarter/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/gothic/drink/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/gothic/eat/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/gothic/see/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/gothic/stay/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/neighborhoods/gracia/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/gracia/drink/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/gracia/eat/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/gracia/see/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/gracia/stay/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/neighborhoods/horta/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/neighborhoods/les-corts/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/neighborhoods/poble-sec/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/neighborhoods/poblenou/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/neighborhoods/port-olimpic/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/raval/drink/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/raval/eat/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/raval/see/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/raval/stay/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/neighborhoods/sant-andreu/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/neighborhoods/sant-antoni/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/neighborhoods/sant-gervasi/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -225,6 +258,10 @@
   <url><loc>https://barcelonavibe.com/rankings/best-vermouth/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/rankings/best-views/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/rankings/best-wine-bars/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/restaurants/family/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/restaurants/michelin/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/restaurants/romantic/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/restaurants/rooftop/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/seasonal/christmas/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/seasonal/fall/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/seasonal/festivals/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -247,6 +284,8 @@
   <url><loc>https://barcelonavibe.com/sleep/budget/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/sleep/hostels/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/sleep/luxury/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/specific-needs/vegetarian/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/specific-needs/wheelchair/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/sports/football/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/sports/running/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/sports/swimming/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
