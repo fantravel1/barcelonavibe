@@ -316,4 +316,34 @@
   <url><loc>https://barcelonavibe.com/views/viewpoints/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/wellness/spas/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://barcelonavibe.com/wellness/yoga-studios/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- New Neighborhood Deep-Dive Guides -->
+  <url><loc>https://barcelonavibe.com/neighborhoods/gothic-quarter/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/eixample/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/el-born/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/gracia/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/barceloneta/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/montjuic/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/sant-antoni/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/la-ribiera/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/poble-sec/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/sarria/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://barcelonavibe.com/neighborhoods/poblenou/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+
+  <!-- New Seasonal & Practical Guides -->
+  <url><loc>https://barcelonavibe.com/guides/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/guides/spring-travel/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/guides/fall-travel/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/guides/budget-planning/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/guides/photography-spots/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/guides/getting-around/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://barcelonavibe.com/guides/day-trips/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- New Collection Pages -->
+  <url><loc>https://barcelonavibe.com/collections/street-art-culture/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://barcelonavibe.com/collections/wellness-retreat/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://barcelonavibe.com/collections/food-experiences/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://barcelonavibe.com/collections/nightlife-by-vibe/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://barcelonavibe.com/collections/hidden-gems/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://barcelonavibe.com/collections/rooftop-experiences/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
